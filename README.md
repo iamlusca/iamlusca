@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ My Stack
 
 ### Linguagens e Ferramentas
 
@@ -56,13 +56,15 @@
 
 ---
 
-## 🌐 Where to find me
+## <h3>🌐 Onde me encontrar</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-felipe-de-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Felipe de Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:lucas.felipelima07@outlook.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Outlook-3B82F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-felipe-de-lima" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
