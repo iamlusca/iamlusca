@@ -7,6 +7,18 @@ I’m starting my journey in **software development**, focused on building a str
 **programming logic, clean code, and practical projects**.
 
 Currently learning and evolving through **hands-on projects, bootcamps, and continuous practice**.
+---
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlusca&theme=city_lights" alt="Profile Details"><br><br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamlusca&theme=city_lights" alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamlusca&theme=city_lights" alt="Most Commit Language"><br><br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamlusca&theme=city_lights" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamlusca&theme=city_lights&utcOffset=8" alt="Productive Time">
+
+</div>
 
 ---
 
@@ -38,9 +50,11 @@ Currently learning and evolving through **hands-on projects, bootcamps, and cont
 
 ### Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+</div>
 
 ---
 
