@@ -3,6 +3,14 @@
 🚀 Desenvolvedor Júnior 
 
 ---
+👨‍💻 Sobre mim
+
+Desenvolvedor em formação, focado em JavaScript, lógica de programação e desenvolvimento web.
+Busco evoluir constantemente por meio de projetos práticos, desafios e estudos contínuos.
+
+Tenho grande interesse em tecnologia, boas práticas de código e em transformar aprendizado em soluções reais. 🚀
+
+---
 
 ## 🌱 O que estou aprendendo
 
