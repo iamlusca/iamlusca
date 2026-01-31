@@ -1,13 +1,47 @@
 # 👋 Hello World, I'm Lucas Lima
 
-🚀 **Developer in training | JavaScript | Git & GitHub**  
-🇧🇷 Brazil
+🚀 Desenvolvedor Júnior 
 
-I’m starting my journey in **software development**, focused on building a strong foundation in  
-**programming logic, clean code, and practical projects**.
-
-Currently learning and evolving through **hands-on projects, bootcamps, and continuous practice**.
 ---
+
+## 🌱 O que estou aprendendo
+
+🧠 Lógica de Programação
+
+⚙️ Fundamentos de JavaScript
+
+🌐 Desenvolvimento Web Básico
+
+🔄 Controle de Versão com Git & GitHub
+
+🧪 Prática por meio de pequenos projetos e desafios
+
+---
+
+## 🎯 Objetivos
+
+🏗️ Construir projetos do mundo real
+
+🧩 Melhorar as habilidades de resolução de problemas
+
+📁 Criar um portfólio sólido no GitHub
+
+📈 Crescer como desenvolvedor passo a passo
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25"/>
+</div>
+
+---
+
 <div align="center">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlusca&theme=city_lights" alt="Profile Details"><br><br>
@@ -32,37 +66,6 @@ Currently learning and evolving through **hands-on projects, bootcamps, and cont
 
 ---
 
-## 🌱 What I’m learning
-
-- 🧠 Programming Logic
-- ⚙️ JavaScript fundamentals
-- 🌐 Basic Web Development
-- 🔄 Git & GitHub version control
-- 🧪 Practice through small projects and challenges
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-</div>
-
----
-
-## 🎯 Goals
-
-- Build real-world projects
-- Improve problem-solving skills
-- Create a solid GitHub portfolio
-- Grow as a developer step by step
-
----
-
 ## 🚀 Mindset
 
 > _"Every expert was once a beginner.  
@@ -70,8 +73,8 @@ Currently learning and evolving through **hands-on projects, bootcamps, and cont
 
 ---
 
-⭐ Always learning and improving  
-🤝 Open to connections, learning opportunities, and collaborations
+⭐ Sempre aprendendo e evoluindo
+🤝 Aberto a conexões, oportunidades de aprendizado e colaborações
 
 ---
 <picture align="center">
