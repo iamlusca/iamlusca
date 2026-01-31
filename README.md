@@ -25,11 +25,7 @@ Currently learning and evolving through **hands-on projects, bootcamps, and cont
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/iamlusca" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-iamlusca-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-felipe-de-lima/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-felipe-de-lima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Felipe de Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
