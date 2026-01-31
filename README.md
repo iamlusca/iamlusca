@@ -10,9 +10,9 @@
 
 ⚙️ Fundamentos de JavaScript
 
-🌐 Desenvolvimento Web Básico
+🌐 Desenvolvimento Web
 
-🔄 Controle de Versão com Git & GitHub
+🔄 Git & GitHub
 
 🧪 Prática por meio de pequenos projetos e desafios
 
@@ -22,17 +22,15 @@
 
 🏗️ Construir projetos do mundo real
 
-🧩 Melhorar as habilidades de resolução de problemas
+🧩 Aprimorar as habilidades de resolução de problemas
 
 📁 Criar um portfólio sólido no GitHub
 
-📈 Crescer como desenvolvedor passo a passo
+📈 Crescer como desenvolvedor
 
 ---
 
 ## 🛠️ My Stack
-
-### Linguagens e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>
