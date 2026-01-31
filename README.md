@@ -63,6 +63,13 @@ Currently learning and evolving through **hands-on projects, bootcamps, and cont
 ⭐ Always learning and improving  
 🤝 Open to connections, learning opportunities, and collaborations
 
+---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamlusca/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamlusca/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamlusca/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
