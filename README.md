@@ -1,95 +1,166 @@
-# 👋 Hello World, I'm Lucas Lima
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2563eb,50:1e40af,100:0f172a&text=Lucas%20Lima&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Junior%20Developer%20|%20ADS%20|%20Backend%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+</p>
 
-🚀 Desenvolvedor Júnior 
+<h1 align="center">👋 Hello World, I'm Lucas!</h1>
 
----
-👨‍💻 Sobre mim
+<p align="center">
+💻 Desenvolvedor Júnior • 🎓 ADS • 🚀 Em transição de carreira
+</p>
 
-Desenvolvedor em formação, focado em JavaScript, lógica de programação e desenvolvimento web.
-Busco evoluir constantemente por meio de projetos práticos, desafios e estudos contínuos.
+<p align="center">
+  <a href="mailto:lucas.felipelima07@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-3B82F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 
-Tenho grande interesse em tecnologia, boas práticas de código e em transformar aprendizado em soluções reais. 🚀
+  <a href="https://www.linkedin.com/in/lucas-felipe-de-lima">
+    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
-
-## 🌱 O que estou aprendendo
-
-🧠 Lógica de Programação
-
-⚙️ Fundamentos de JavaScript
-
-🌐 Desenvolvimento Web
-
-🔄 Git & GitHub
-
-🧪 Prática por meio de pequenos projetos e desafios
+  <a href="https://github.com/iamlusca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Objetivos
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🏗️ Construir projetos do mundo real
+## 👨‍💻 Sobre mim
 
-🧩 Aprimorar as habilidades de resolução de problemas
+🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**
 
-📁 Criar um portfólio sólido no GitHub
+🚀 Em transição de carreira para Desenvolvimento de Software.
 
-📈 Crescer como desenvolvedor
+💙 Atualmente estudando **Desenvolvimento Full Stack**, com maior interesse em **Backend**.
 
----
+📚 Gosto de aprender construindo projetos práticos e transformando teoria em código.
 
-## 🛠️ My Stack
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir continuamente.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25"/>
-</div>
+<br>
 
 ---
 
-<div align="center">
+# 🚀 Tecnologias
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlusca&theme=city_lights" alt="Profile Details"><br><br>
+### Linguagens
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamlusca&theme=city_lights" alt="Repos Per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamlusca&theme=city_lights" alt="Most Commit Language"><br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamlusca&theme=city_lights" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamlusca&theme=city_lights&utcOffset=8" alt="Productive Time">
+### Ferramentas
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### Estudando
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
+</p>
 
 ---
 
-## <h3>🌐 Onde me encontrar</h3>
+# 📊 GitHub
 
-<a href="mailto:lucas.felipelima07@outlook.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Outlook-3B82F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamlusca&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlusca&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlusca&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamlusca&theme=tokyonight"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamlusca&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Atualmente
+
+- 📚 Estudando JavaScript e React
+- 🔥 Desenvolvendo projetos pessoais
+- 🌎 Aprendendo boas práticas de desenvolvimento
+- 📂 Construindo meu portfólio
+
+---
+
+# 🚀 Objetivos
+
+✔ Criar projetos do mundo real
+
+✔ Evoluir como desenvolvedor Backend
+
+✔ Contribuir para projetos Open Source
+
+✔ Conquistar minha primeira oportunidade na área
+
+---
+
+# 🌎 Vamos nos conectar?
+
+<p align="center">
+
+<a href="mailto:lucas.felipelima07@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-3B82F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-felipe-de-lima" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/lucas-felipe-de-lima">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
----
-
-## 🚀 Mindset
-
-> _"Every expert was once a beginner.  
-> Consistency beats talent."_
+</p>
 
 ---
 
-⭐ Sempre aprendendo e evoluindo
-🤝 Aberto a conexões, oportunidades de aprendizado e colaborações
+# 💭 Frase
+
+> *"Every expert was once a beginner. Consistency beats talent."*
 
 ---
-<picture align="center">
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iamlusca&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamlusca&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamlusca/iamlusca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamlusca/iamlusca/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamlusca/iamlusca/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/iamlusca/iamlusca/output/github-contribution-grid-snake.svg">
 </picture>
+
+</p>
+
+---
+
+<h3 align="center">
+💙 Obrigado por visitar meu perfil!
+</h3>
 
 
 
