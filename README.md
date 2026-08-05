@@ -88,17 +88,6 @@ Projeto de estudo focado em HTML, CSS, JavaScript e consumo de APIs.
 
 ---
 
-# 🌱 Atualmente estudando
-
-- JavaScript
-- React
-- Node.js
-- APIs REST
-- Git & GitHub
-- Boas práticas de desenvolvimento
-
----
-
 # 🎯 Objetivos
 
 ✔ Construir projetos do mundo real.
@@ -131,23 +120,9 @@ Projeto de estudo focado em HTML, CSS, JavaScript e consumo de APIs.
 
 ---
 
-# 🌎 Vamos nos conectar?
 
-<p align="center">
-  <a href="mailto:lucas.felipelima07@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-3B82F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/lucas-felipe-de-lima">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
 
----
-
-<p align="center">
-<i>"Every expert was once a beginner. Consistency beats talent."</i>
-</p>
 
 <h3 align="center">
 ⭐ Obrigado pela visita! ⭐
