@@ -74,9 +74,6 @@
 
 # 🚀 Projetos em destaque
 
-📌 **Pokédex React**  
-Aplicação desenvolvida em React com filtros por tipo de Pokémon.
-
 📌 **Clarim Diário**  
 Portal de notícias desenvolvido com HTML, CSS e JavaScript utilizando Web Components.
 
@@ -94,14 +91,6 @@ Projeto de estudo focado em HTML, CSS, JavaScript e consumo de APIs.
 ✔ Aprender novas tecnologias continuamente.
 
 ✔ Conquistar minha primeira oportunidade na área.
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamlusca&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
