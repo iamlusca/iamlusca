@@ -62,16 +62,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamlusca&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🚀 Projetos em destaque
 
 📌 **Clarim Diário**  
